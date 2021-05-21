@@ -11,7 +11,12 @@ If you want to implement MineTron in your Node.js Codebase use
 then you can do stuff like this
 
 ```
-const minetron = require('minetron')
+const minetron = require("./index.js")
 
-const login_object = minetron(uuid)
+
+minetron(uuid, async (data) => {
+	console.log(await data.getServer(0))
+})
 ```
+
+which gives you server data
