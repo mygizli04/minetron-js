@@ -14,5 +14,4 @@ then you can do stuff like this
 const minetron = require('minetron')
 
 const login_object = minetron(uuid)
-
 ```
