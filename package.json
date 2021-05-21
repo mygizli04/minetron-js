@@ -1,0 +1,24 @@
+{
+  "name": "minetron",
+  "version": "1.0.0",
+  "description": "A Wrapper For the Minetron Auth API and the Minehut API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MrEnxo/minetron-js.git"
+  },
+  "keywords": [
+    "Minehut",
+    "Minecraft",
+    "MineTron"
+  ],
+  "author": "MrEnxo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MrEnxo/minetron-js/issues"
+  },
+  "homepage": "https://github.com/MrEnxo/minetron-js#readme"
+}
