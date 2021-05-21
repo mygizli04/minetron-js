@@ -11,7 +11,7 @@ If you want to implement MineTron in your Node.js Codebase use
 then you can do stuff like this
 
 ```
-const { minetron }= require("./index.js")
+const { minetron } = require("./index.js")
 
 
 minetron("5a8g1251-12ba-4a4c-b6ba-f15770b1a2b0", async (data) => {
